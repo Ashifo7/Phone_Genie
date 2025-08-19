@@ -131,6 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by Mohammed Ashif R
 - Icons by [Lucide Icons](https://lucide.dev/)
 - Phone data from various public sources
