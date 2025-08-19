@@ -41,7 +41,7 @@ PhoneGenie is an intelligent web application that helps users find their perfect
 
 1. **Clone the repository**
    ```bash
-   git clone (https://github.com/Ashifo7/Phone_Genie)
+   git clone [(https://github.com/Ashifo7/Phone_Genie)](https://github.com/Ashifo7/Phone_Genie)
    cd PhoneGenie
    ```
 
